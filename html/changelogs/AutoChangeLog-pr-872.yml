@@ -1,4 +1,0 @@
-author: "DeltaFire15"
-delete-after: True
-changes:
-  - bugfix: "Toolset implants no longer have wonky behavior with limbs that aren't theirs being reattached."

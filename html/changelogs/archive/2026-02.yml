@@ -22,3 +22,9 @@
 2026-02-19:
   Skies-Of-Blue:
   - rscadd: adds horse plushie to loadout
+2026-02-23:
+  DeltaFire15:
+  - bugfix: Toolset implants no longer have wonky behavior with limbs that aren't
+      theirs being reattached.
+  Epicgamer545, Pink-MB, 00-Steven:
+  - rscadd: Ports Undersized quirk from Doppler
