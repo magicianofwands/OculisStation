@@ -1693,6 +1693,9 @@
 	icon_state = "alienpod5"
 	},
 /area/awaymission/mothership_astrum/halls)
+"ql" = (
+/turf/open/floor/wood
+)
 "qm" = (
 /obj/structure/bed{
 	name = "Reproduction Bench"
@@ -24773,6 +24776,7 @@ Uw
 Uw
 Uw
 Uw
+ql
 "}
 (77,1,1) = {"
 Uw
@@ -26056,6 +26060,8 @@ Uw
 Uw
 Uw
 Uw
+ql
+ql
 "}
 (82,1,1) = {"
 Uw
@@ -26311,6 +26317,8 @@ Uw
 Uw
 Uw
 Uw
+ql
+ql
 "}
 (83,1,1) = {"
 Uw
@@ -26566,6 +26574,8 @@ Uw
 Uw
 Uw
 Uw
+ql
+ql
 "}
 (84,1,1) = {"
 Uw
@@ -26822,6 +26832,7 @@ Uw
 Uw
 Uw
 Uw
+ql
 "}
 (85,1,1) = {"
 Uw
@@ -27592,6 +27603,7 @@ Uw
 Uw
 Uw
 Uw
+ql
 "}
 (88,1,1) = {"
 Uw
@@ -32217,6 +32229,7 @@ Uw
 Uw
 Uw
 Uw
+ql
 "}
 (106,1,1) = {"
 Uw
@@ -32730,6 +32743,7 @@ Uw
 Uw
 Uw
 Uw
+ql
 "}
 (108,1,1) = {"
 Uw
@@ -42495,6 +42509,7 @@ Uw
 Uw
 Uw
 Uw
+ql
 "}
 (146,1,1) = {"
 Uw
@@ -49947,6 +49962,7 @@ Uw
 Uw
 Uw
 Uw
+ql
 "}
 (175,1,1) = {"
 Uw
