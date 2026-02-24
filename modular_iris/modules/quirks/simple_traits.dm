@@ -14,7 +14,7 @@
 /datum/quirk/no_reflection
 	name = "No mirror reflection"
 	desc = "You do not reflect in mirrors."
-	icon = FA_ICON_EGG //the egg looks similar enough to a mirror. change this if needed
+	icon = FA_ICON_PERSON_CIRCLE_MINUS //change this if you find both an icon better fitting no_reflection quirk and a quirk better fitting FA_ICON_PERSON_CIRCLE_MINUS icon
 	value = 0
 	mob_trait = TRAIT_NO_MIRROR_REFLECTION
 	gain_text = span_notice("You feel like the sky's the limit!")
