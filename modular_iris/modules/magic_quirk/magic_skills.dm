@@ -8,6 +8,7 @@ You can also ask for custom rituals through prayers, but it's not guaranteed som
 	medical_record_text = "Subject possesses an innate ability for magic."
 	gain_text = span_notice("You feel like you understand magic!")
 	lose_text = span_danger("You feel like you no longer understand magic.")
+	hidden = TRUE
 //	mail_goodies = list(/obj/item/storage/fancy/nugget_box)
 	var/list/crafting_recipe_types = list(
 		/datum/crafting_recipe/canning_supplies,

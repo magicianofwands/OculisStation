@@ -1,7 +1,0 @@
-author: "Sadhorizon, prodirus"
-delete-after: True
-changes:
-  - balance: "Reshuffled spider types between standard and abnormal eggs."
-  - balance: "Player-controlled spiders can no longer attack each other."
-  - balance: "Web Passages are immune to fires now."
-  - balance: "Reworked Ambusher, Guard and Tank spiders. Merged Viper and Hunter. Rest of the classes were tweaked."
