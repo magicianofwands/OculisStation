@@ -143,7 +143,6 @@
   - bugfix: sinks consume reagents when washing and won't wash when it becomes dry
   - bugfix: map loaded plumbing machines begin processing
   - bugfix: 'placing stack of ducts by hand of ducts works again
-
       fix; plumbing machinery properly reconnects when un wrenching ducts in circular
       connections'
   - refactor: sinks are now proper wall mounted components meaning destroying their
