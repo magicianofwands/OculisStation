@@ -459,6 +459,8 @@ GLOBAL_LIST_EMPTY(preferences_datums)
 	else
 		body.wipe_state()
 
+	appearance = preferences.render_new_preview_appearance(body, show_job_clothes)
+
 	// NOVA EDIT ADDITION BEGIN: Better character preview
 	var/canvas_size = 0
 	var/canvas_state = preferences.read_preference(/datum/preference/choiced/background_state)
