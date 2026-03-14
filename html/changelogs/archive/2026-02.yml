@@ -448,7 +448,6 @@
   - qol: HC cops' loadouts have been slightly rejiggled into a more appropriate shape.
   sqnztb:
   - balance: HC survival packs are now normal sized.
-2026-02-23:
   DeltaFire15:
   - bugfix: Toolset implants no longer have wonky behavior with limbs that aren't
       theirs being reattached.
