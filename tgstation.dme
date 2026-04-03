@@ -7046,7 +7046,6 @@
 #include "modular_iris\code\_onclick\hud\ghost.dm"
 #include "modular_iris\code\datums\prevent_attacking_of_player_types.dm"
 #include "modular_iris\code\datums\ruins.dm"
-#include "modular_iris\code\datums\components\echolocation.dm"
 #include "modular_iris\code\datums\components\crafting\furniture.dm"
 #include "modular_iris\code\datums\mood_events\drug_events.dm"
 #include "modular_iris\code\datums\shuttles\pirate.dm"
