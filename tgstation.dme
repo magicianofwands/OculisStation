@@ -7033,7 +7033,6 @@
 #include "modular_iris\bubber_ports\code\modules\maps\biodome_graveyard\beach.dm"
 #include "modular_iris\bubber_ports\code\modules\maps\biodome_graveyard\decoration.dm"
 #include "modular_iris\bubber_ports\code\modules\maps\biodome_graveyard\power.dm"
-#include "modular_iris\bubber_ports\code\modules\maps\biodome_graveyard\pride_flags.dm"
 #include "modular_iris\bubber_ports\code\modules\maps\biodome_graveyard\sedated_mob.dm"
 #include "modular_iris\bubber_ports\code\modules\maps\biodome_graveyard\turfs.dm"
 #include "modular_iris\bubber_ports\code\modules\maps\biodome_graveyard\vendcation.dm"
