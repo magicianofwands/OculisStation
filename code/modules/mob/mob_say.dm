@@ -177,14 +177,6 @@
 		if(runechat_prefs_check(mobs_hearing))
 			mobs_hearing.create_chat_message(src, /datum/language/common, message)
 
-	//IRIS ADDITION START
-	for(var/mob/M in GLOB.player_list)
-		if(!isdead(M))
-			continue
-		if (M.client?.prefs.read_preference(/datum/preference/toggle/enable_runechat))
-			M.create_chat_message(src, /datum/language/common, message)
-	//IRIS ADDITION END
-
 ///Check if this message is an emote
 /mob/proc/check_emote(message, forced)
 	if(message[1] == "*")
