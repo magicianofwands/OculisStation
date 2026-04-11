@@ -26,3 +26,9 @@
 2026-04-10:
   flleeppyy:
   - rscadd: Plexora OOM shutdown type.
+2026-04-11:
+  Absolucy:
+  - bugfix: Fixed latejoin heretics not generating influences.
+  TyrantCerberus:
+  - code_imp: NAD lone op spawn is able to be toggled using a config flag which defaults
+      to disabled.

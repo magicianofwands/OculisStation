@@ -1,4 +1,0 @@
-author: "TyrantCerberus"
-delete-after: True
-changes:
-  - code_imp: "NAD lone op spawn is able to be toggled using a config flag which defaults to disabled."
