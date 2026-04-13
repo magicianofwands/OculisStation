@@ -1,6 +1,4 @@
 2026-04-01:
-  craftxbox:
-  - rscadd: MOD riding saddle module
   DATA-xPUNGED:
   - admin: When forcing an earthquake, admins can now pick their precise position
       on the station.
@@ -103,6 +101,8 @@
   cebutris:
   - rscadd: Pride flags are now available in the loadout, and can also be crafted
       with a bit of cloth!
+  craftxbox:
+  - rscadd: MOD riding saddle module
   lelandkemble:
   - spellcheck: Changed spacing an punctuation in thanatorenasia offer to ghosts
   - bugfix: You can no longer create infinite plasteel with girders
@@ -141,3 +141,6 @@
   TyrantCerberus:
   - code_imp: NAD lone op spawn is able to be toggled using a config flag which defaults
       to disabled.
+2026-04-13:
+  XeonMations:
+  - bugfix: Fixed emote cooldown being 2 seconds. Lowered to 0.8, same as TG.

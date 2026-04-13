@@ -1,4 +1,0 @@
-author: "XeonMations"
-delete-after: True
-changes:
-  - bugfix: "Fixed emote cooldown being 2 seconds. Lowered to 0.8, same as TG."
