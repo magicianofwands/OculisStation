@@ -159,3 +159,6 @@
   - rscadd: lizards take more damage from toxin and have slower surgery times due
       to their scales
   - rscadd: Added the ability for lizards to lick things off their own face
+2026-04-16:
+  KnigTheThrasher:
+  - bugfix: fixed corgis having missing old age icon
